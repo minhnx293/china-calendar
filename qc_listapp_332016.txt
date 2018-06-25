@@ -1,0 +1,123 @@
+{
+  "info": "Ice Tea Encode",
+  "version_BoiTongHop": 71,
+  "link_boi": "https://play.google.com/store/apps/details?id=icetea.encode.boitonghop2",
+  "info_update": "Phiên bản 4.4.1:\n- Cập nhật Sim số đẹp\n- Sửa lỗi chọn ngày\n- Thêm thông báo: tử vi hàng ngày, ngày lễ, ngày rằm và mùng một. Tắt/bật thông báo trong phần thiết lập ở màn hình mở rộng.",
+  "listAds": [
+    {
+      "url_icon": "http://sv1.upsieutoc.com/2017/03/03/icon-boi.png",
+      "link": "https://sites.google.com/view/iceteaencode/trangchu/boi-tong-hop-lich-viet",
+      "name": "Bói 2017 cho iOS, WinPhone",
+      "id_vn": 1,
+      "packId": "hq.eBiz.OTOS"
+    },
+    {
+      "url_icon": "https://lh3.googleusercontent.com/UkPdQQq4zgsx0CkDZR_bk5Hmby7OHGqplbR9gzvpPjIVty2lkY-a7rcQIWqg5MftIw=w86",
+      "link": "https://play.google.com/store/apps/details?id=com.ite.lichamduong",
+      "name": "Lịch Âm Dương",
+      "id_vn": 0,
+      "packId": "com.ite.lichamduong"
+    },
+    {
+      "url_icon": "https://lh3.googleusercontent.com/76mQvmnBa1Rs-mez15YizbLbis2kIO6M5HI4jwDvn2AyPTl5bmBHBbACjz2Dmzo_fN8=w86",
+      "link": "https://play.google.com/store/apps/details?id=com.ite.compass",
+      "name": "La bàn trên bản đồ",
+      "id_vn": 0,
+      "packId": "com.ite.compass"
+    },
+    {
+      "url_icon": "https://lh3.googleusercontent.com/ZCx3G0Juexw4qyl4E9MQ_RFoD4jXY7g_htW_zsxcdJNP1t2AOthIbNb9_nVNLA0n1Pw7=w86",
+      "link": "https://play.google.com/store/apps/details?id=com.ite.coloring4kids",
+      "name": "Kids Coloring - Kids Drawing",
+      "id_vn": 0,
+      "packId": "com.ite.coloring4kids"
+    },
+    {
+      "url_icon": "https://lh3.googleusercontent.com/qlL5_HlljFWG4RwEZxroPEATb5OcBX2hN45r1oTCAIkHWwDlHV1RdF7BKJmqTnqw04E=w86",
+      "link": "https://play.google.com/store/apps/details?id=com.ite.utruefalse",
+      "name": "Quiz Math",
+      "id_vn": 1,
+      "packId": "com.ite.utruefalse"
+    },
+    {
+      "url_icon": "https://lh3.googleusercontent.com/zvDnHRDoKkwBfysVTYsCltV3uv_Hc9wz8Wtb573TJEOgO0pZx_ygA24UYbFmTq_0Rg=w86",
+      "link": "https://play.google.com/store/apps/details?id=com.ite.dailyhoroscope",
+      "name": "Tử Vi Hàng Ngày Của Tôi",
+      "id_vn": 1,
+      "packId": "com.ite.dailyhoroscope"
+    },
+    {
+      "url_icon": "https://lh3.googleusercontent.com/Abi-TPN4up6IvowAN1Oaa2zEtuvUWzVIsMcjMeh13bwA4pzUExQfoqgx8F0nesQj1ym-=w86",
+      "link": "https://play.google.com/store/apps/details?id=com.ite.phongthuy",
+      "name": "Phong Thủy Việt",
+      "id_vn": 1,
+      "packId": "com.ite.phongthuy"
+    },
+    {
+      "url_icon": "https://lh5.ggpht.com/tjFjS13cn9E2U8usLbo1L5bFtsH2JUOpyLBasYaM2Xch94yZL3nqHc4fAQxW67JrUko=w86",
+      "link": "https://play.google.com/store/apps/details?id=icetea.encode.boitonghop2",
+      "name": "Bói Tổng Hợp 2018",
+      "id_vn": 1,
+      "packId": "icetea.encode.boitonghop2"
+    },
+    {
+      "url_icon": "https://lh3.googleusercontent.com/RdIfx1OApbI9MG9uQlC2i8lnh28xE4hqV7HVQRnlh2uCDvev_BaMWv5pNzhsWUTy7s9z=w86",
+      "link": "https://play.google.com/store/apps/details?id=com.ite.smsgiftlife",
+      "name": "SMS Hay - Tin Nhắn Tổng Hợp",
+      "id_vn": 1,
+      "packId": "com.ite.smsgiftlife"
+    },
+    {
+      "url_icon": "https://lh3.googleusercontent.com/DUJbz1pEQwDfttMPgDJoAkUYTSrDAqbAKYYWFxBK8W4pKVCisnlcF-EcfLNS3H5aizw=w86",
+      "link": "https://play.google.com/store/apps/details?id=icetea.encode.smartvoicecontrol",
+      "name": "Voice Record - Translator Free",
+      "id_vn": 1,
+      "packId": "icetea.encode.smartvoicecontrol"
+    },
+    {
+      "url_icon": "https://lh3.googleusercontent.com/XrZjKp2Gcs9p3OXflIHEI7hSAzbOfDU7lNEU66w_Gsk78GbJZO1kMDBIMKzZ_nJIvQw=w86",
+      "link": "https://play.google.com/store/apps/details?id=icetea.encode.trueorfalsecalculations",
+      "name": "Vua Toán Học",
+      "id_vn": 1,
+      "packId": "icetea.encode.trueorfalsecalculations"
+    },
+    {
+      "url_icon": "https://lh3.googleusercontent.com/nURirhDWMoh28L5p48D3KiiZMBqYcuqdBwW2UR8HJeMBMRTB8E7OM-HucNUyPf-q_w=w86",
+      "link": "https://play.google.com/store/apps/details?id=com.phon.diamondplusx",
+      "name": "Diamond Casual Legend",
+      "id_vn": 1,
+      "packId": "com.phon.diamondplusx"
+    },
+    {
+      "url_icon": "https://lh3.googleusercontent.com/pZeZXO9Jro6bJqVLO2S5beKGYTnNhLMQBusTVE8ymfJsCyd1oKF3j_W9S5q5RSyNWmw=w86",
+      "link": "https://play.google.com/store/apps/details?id=icetea.encode.createsecretcode",
+      "name": "Mã Hóa Nội Dung",
+      "id_vn": 1,
+      "packId": "icetea.encode.createsecretcode"
+    }
+  ],
+  "name": "Ice Tea Encode",
+  "url": "https://play.google.com/store/apps/developer?id=Ice+Tea+Encode",
+  "list_Banner":[
+    {
+		"url_480x800": "http://sv1.upsieutoc.com/2017/03/03/sms-hay-300-250.jpg",
+		"url_720x1200": "http://sv1.upsieutoc.com/2017/03/03/sms-hay-600-500.jpg",
+		"link_store": "https://play.google.com/store/apps/details?id=com.ite.smsgiftlife",
+		"name": "Nhân dịp Tết Nguyên Đán Mậu Tuất chúc bạn và gia đình một năm mới an khang thịnh vượng.\nNhóm phát triển xin gửi đến bạn \"Lịch Âm Dương\" phiên bản mới của Bói Tổng Hợp với giao diện mới, hiện đại, tiện dụng và thêm nhiều tính năng mới.\nChọn \"Cài đặt\" để trải nghiệm ngay nhé.",
+		"version": 1,
+		"packId": "icetea.encode.boitonghop2",
+		"priority":0,
+		"is_vn":1
+    },
+    {
+		"url_480x800": "http://sv1.upsieutoc.com/2017/06/01/phongthuy320x250.jpg",
+		"url_720x1200": "http://sv1.upsieutoc.com/2017/06/01/phonthuy600x300.jpg",
+		"link_store": "https://play.google.com/store/apps/details?id=com.ite.phongthuy",
+		"name": "Nhân dịp Tết Nguyên Đán Mậu Tuất chúc bạn và gia đình một năm mới an khang thịnh vượng.\nNhóm phát triển xin gửi đến bạn \"Lịch Âm Dương\" - ứng dụng miễn phí giúp bạn xem bói, tra cứu lịch âm dương, lịch vạn niên, xem tử vi hàng ngày đơn giản thuận tiện nhanh chóng.\nChọn \"Cài đặt\" để trải nghiệm ngay nhé.",
+		"version": 1,
+		"packId": "icetea.encode.tetnguyendan",
+		"priority":0,
+		"is_vn":1
+    }
+	]
+}
